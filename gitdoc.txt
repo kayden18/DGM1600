@@ -1,1 +1,2 @@
-wow more git information
+wow more git information 
+and now it's been changed
